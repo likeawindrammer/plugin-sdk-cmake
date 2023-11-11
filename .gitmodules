@@ -1,0 +1,3 @@
+[submodule "plugin-sdk-mingw"]
+	path = plugin-sdk-mingw
+	url = https://github.com/likeawindrammer/plugin-sdk-mingw.git
