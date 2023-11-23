@@ -38,7 +38,7 @@ target_include_directories(gtasa PUBLIC
     plugin-sdk-mingw/plugin_sa/game_sa/
 )
 target_link_directories(gtasa PUBLIC
-    plugin-sdk-mingw/tools/bass/
+    plugin-sdk-mingw/shared/bass/
 )
 target_sources(gtasa PRIVATE
     plugin-sdk-mingw/plugin_sa/game_sa/
